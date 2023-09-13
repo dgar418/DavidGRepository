@@ -1,3 +1,2 @@
-# Python NLP - Sentiment Analysis
-#### This study will utilize natural language processing techniques on the word usage found in a Google Play Store reviews dataset to carry out sentiment analysis.
-
+# Master's Degree Projects Repository
+#### This repository will hold some of the Data Analytics projects I created during my Master's Degree in Data Analytics.
